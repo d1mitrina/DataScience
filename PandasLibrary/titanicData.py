@@ -17,3 +17,4 @@ print(female[female["Age"]<=30])
 
 print(df.iloc[0:3,0:3]) #rows n columns
 print(df.iloc[1:3,0:4]) #rows n columns
+
